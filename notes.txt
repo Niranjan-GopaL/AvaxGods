@@ -1,0 +1,16 @@
+PROGRESS LOGS -----------------------------------------------------------------------------
+
+1)  create web_3 folder and run 
+    npx hardhat
+
+2)  npm install --save-dev "hardhat@^2.13.1" "@nomicfoundation/hardhat-toolbox@^2.0.0"
+    npm i @openzeppelin/contracts dotenv @nomiclabs/hardhat-ethers
+
+3)  install browser waller extension
+    App build with Avalanche in order to build it FASTER and in lower cost
+
+    So we need Core (metamask alternative)
+    Reasons stated in the video at 10:15
+
+    We are deploying it on the C chain on The  primary sub-net of fuji
+    When the app grows , you need to move it into your own subnet (refer hardhat.config.ts)
