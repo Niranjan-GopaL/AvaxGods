@@ -14,3 +14,7 @@ PROGRESS LOGS ------------------------------------------------------------------
 
     We are deploying it on the C chain on The  primary sub-net of fuji
     When the app grows , you need to move it into your own subnet (refer hardhat.config.ts)
+
+
+4) After wsl migration, project restarted. Dependency manager is Yarn.
+   client side works perfectly.
